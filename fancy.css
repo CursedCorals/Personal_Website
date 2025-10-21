@@ -1,0 +1,29 @@
+/* id-based rule */
+#bold { 
+	font-weight: bold;
+}
+/* class-based rule */
+.red { 
+	color: rgb(53, 45, 57);
+}
+
+/* element-based or tag-based rule */
+p {
+	font-size: 2.5em;
+}
+h1 {
+	font-size: 5.5em;
+}
+a {
+		color: rgb(245, 131, 211);
+        font-size: 2.5em;
+
+}
+
+body {
+
+		color: #49183e;
+        background-color: #c433a5;
+
+}
+
