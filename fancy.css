@@ -10,6 +10,7 @@
 /* element-based or tag-based rule */
 p {
 	font-size: 2.5em;
+	font-family: sans-serif;
 }
 h1 {
 	font-size: 5.5em;
